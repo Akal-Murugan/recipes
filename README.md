@@ -1,0 +1,2 @@
+# recipes
+Basic recipes page
